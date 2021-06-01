@@ -1,19 +1,4 @@
-# them_demo
+### 配置步骤
 
-## Project setup
-```
-yarn install
-```
+[配置步骤](https://xiaokinglong.github.io/2021/06/01/ant-design-vue%E4%B8%BB%E9%A2%98%E8%89%B2%E5%8A%A8%E6%80%81%E5%88%87%E6%8D%A2/)
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
